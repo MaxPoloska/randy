@@ -70,4 +70,5 @@ int main(void) {
     }
     EndDrawing();
   }
+  return 0;
 }
